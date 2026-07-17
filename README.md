@@ -21,7 +21,7 @@
 
 > **Empower Your Career. Build Your Future. Connect Professionally.**
 
-CVRump is a **cutting-edge platform** designed to revolutionize how professionals manage their careers. From crafting the perfect resume to tracking your professional journey, we're here to help you succeed! 🎯
+CVRump is a **cutting-edge platform** designed to revolutionize how professionals manage their careers. From crafting the perfect resume to tracking your professional journey, we're here to help you s[...]
 
 ---
 
@@ -297,6 +297,10 @@ See LICENSE file for full details
 <div align="center">
 
 Thank you to all our amazing contributors! 🙏
+
+### ⭐ Featured Contributors
+
+- **[Mandeep Singh Pawar](https://github.com/tmspworld)** - Core contributor and platform developer
 
 [![Contributors](https://contrib.rocks/image?repo=cvrump/cvrump)](https://github.com/cvrump/cvrump/graphs/contributors)
 
